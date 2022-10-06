@@ -1,0 +1,10 @@
+.rodape {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+}
+.content {
+    max-width: 500px;
+    align-items: center;
+  }
